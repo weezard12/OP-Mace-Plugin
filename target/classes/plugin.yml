@@ -1,0 +1,6 @@
+name: MaceOP
+version: '1.0'
+main: com.weezard12.maceOP.MaceOP
+api-version: '1.21'
+commands:
+  about:
